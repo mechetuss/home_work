@@ -1,0 +1,213 @@
+  131  git init
+  132  git add README.md
+  133  git commit -m "first commit"
+  134  git branch -M main
+  135  git remote add origin git@github.com:mechetuss/mamasha2005.git
+  136  git push -u origin main
+  138  git init
+  139  git --version
+  140  sudo apt install git
+  142  git init
+  143  git add README.md
+  144  git commit -m "first commit"
+  145  git branch -M main
+  146  git remote add origin git@github.com:mechetuss/mamasha2005.git
+  147  git push -u origin main
+  150  sudo apt install git
+  151  git --version
+  153  git init
+  154  git add README.md
+  155  git commit -m "first commit"
+  156  git branch -M main
+  157  git remote add origin git@github.com:mechetuss/mamasha2005.git
+  158  git push -u origin main
+  159  git config --global user.email "marialobanova05@yandex.ru"
+  160  git config --global user.name "mechetuss"
+  161  git branch
+  162  git add README.md
+  163  git commit -m "first commit"
+  164  git push -u origin main
+  165  git status
+  167  git status
+  169  git add README.md
+  171  git status
+  172  git remote -v
+  177  git remote -v 
+  179  git pull origin main
+  180  git branch
+  181  git pull -u origin main
+  182  git pull origin main
+  183  git log
+  184  git status
+  185  git rm README.me 
+  186  git rm README.md 
+  187  git status
+  188  git commit -m 'delete readme'
+  189  git push
+  190  git add README.md
+  193  git add README.md
+  194  git status
+  196  git push
+  197  git status
+  198  git add README.md
+  199  git commit -m "mama"
+  200  git push -u origin main
+  205  git status
+  219  git clone git@github.com:mechetuss/repa.git
+  224  git status
+  231  git status
+  234  rm -r .git
+  236  rm -r .git
+  237  rm -r .gitconfig 
+  239  git status
+  307  git clone https://github.com/Weakne55/Bioinformatics305/tree/master#
+  309  git clonehttps://github.com/Weakne55/Bioinformatics305.git
+  310  git clone https://github.com/Weakne55/Bioinformatics305.git
+  314  git remote remove origin
+  315  git remote add origin git@github.com:mechetuss/home_tasks.git
+  317  git status
+  321  git status
+  322  git remote -v
+  331  git status
+  332  git add .
+  333  git sttatus
+  334  git status
+  335  git commit 
+  336  git status
+  337  git add .
+  338  git commit -m "Cleanup temp files"
+  345  git status
+  346  git clone git@github.com:mechetuss/home_tasks.git
+  348  git clone https://github.com/Weakne55/Bioinformatics305.git
+  367  git status
+  381  git status
+  382  git add .
+  383  git commit 
+  384  git config --global user.name "mechetuss"
+  385  git config --global user.email "marialobanova05@yandex.ru"
+  386  git commit 
+  401  git remote remove origin
+  402  git remote add origin git@github.com:mechetuss/home_tasks.git
+  408  git status
+  409  git add .
+  410  git commit -m "Cleanup temp files"
+  411  git push
+  412  git push --set-upstream origin master
+  418  git clone https://github.com/Weakne55/Bioinformatics305.git
+  420  git remote remove origin
+  421  git remote add git@github.com:mechetuss/home_task.git
+  422  git remote add origin git@github.com:mechetuss/home_task.git
+  428  git status
+  429  git add .
+  430  git commit -m "Cleanup temp files"
+  431  git push
+  432  git push --set-upstream origin main
+  433  git branch
+  434  git push --set-upstream origin master
+  436  git branch
+  437  git branch -m main
+  438  git branhc
+  439  git branch
+  440  git status
+  441  git push
+  446  git clone https://github.com/Weakne55/Bioinformatics305.git
+  448  git remote remove origin
+  449  git branch -m main
+  450  git branch
+  451  git remote add origin git@github.com:mechetuss/home_work.git
+  452  git status
+  456  git status
+  457  git add .
+  458  git commit
+  459  git push
+  460  git push --set-upstream origin main
+  461  git pull
+  462  git push --set-upstream origin main
+  464  git status
+  465  git pull origin main --rebase
+  471  git stauts
+  472  git status
+  476  git clone https://github.com/Weakne55/Bioinformatics305.git
+  478  git remote remove origin
+  479  git remote add origin git@github.com:mechetuss/home_work.git
+  480  git branch -m main
+  482  git branch
+  483  git status
+  484  git pull origin main
+  485  git pull origin main --no-rebase
+  490  git status
+  491  git add .
+  492  git commit -m "Cleanup temp files"
+  493  git push
+  494  git push --set-upstream origin main
+  495  git pull origin main --no-rebase
+  497  git status
+  498  git push origin main
+  499  git pull origin main --rebase
+  500  git push origin main
+  506  git push
+  507  git push --set-upstream origin main
+  517  git branch  investigation
+  519  git branch
+  520  git branch  investigation
+  521  git branch -m infected_reads.txt 
+  523  git branch
+  524  git branch -m main
+  525  git branch investigation
+  526  git checkout -b infected_reads.txt 
+  527  git branch
+  528  git checkout -b investigation
+  529  git branch
+  530  git checkout investigation
+  531  git branch
+  534  git status
+  535  git add .
+  536  git commit -m "investigation"
+  537  git push -u origin investigation
+  583  git status
+  584  git branch
+  585  git branch -d infected_reads.txt
+  586  git branch
+  594  git branch
+  595  git add .
+  596  git commit -m "mini_run.fastq"
+  597  git push
+  598  git checkout main
+  602  git status
+  603  git checkout experiment.log
+  605  echo "git checkout experiment.log" > command.txt
+  607  git status
+  608  git add command.txt
+  609  git commit
+  610  git push
+  611  git branch
+  617  git status
+  626  git add access.log sort.txt
+  627  git commit -m "Add access.log"
+  628  git checkout main
+  629  git merge investigation
+  630  git status 
+  631  git push
+  635  git add genes_fixed.csv
+  636  git commit -m "genes_fixed.csv"
+  637  git push
+  638  git checkout -b cleaning
+  645  git add diskusage.file
+  646  git commit -m "diskusage.file"
+  647  git push origin cleaning
+  648  git branch
+  649  git checkout main
+  650  git branch
+  652  git add
+  653  git add .
+  654  git commiy 
+  655  git commit
+  656  git log --oneline | head -1 | cut -c1-4
+  658  git add forgotten.txt 
+  659  git commit --amend --no-edit
+  660  git log
+  665  git add amend.txt
+  666  git commit -m "amend.txt"
+  667  git branch
+  668  git push
+  669  history | grep git > report_commands.txt
