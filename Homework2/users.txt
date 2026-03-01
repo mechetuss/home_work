@@ -1,0 +1,4 @@
+ 18:07:09 up  2:38,  1 user,  load average: 0.03, 0.01, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+mamasha2 pts/1    -                14:27    3:39m  0.00s   ?    -bash
+uid=1000(mamasha2005) gid=1000(mamasha2005) groups=1000(mamasha2005),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users)
