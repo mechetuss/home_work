@@ -1,0 +1,32 @@
+{
+  "original_notebook": "UCB_seminar.ipynb",
+  "original_sha256": "5b64c0c9d1c4a1e386614f8a4b750ca6618c996665866bd44c9efbdef2404905",
+  "original_byte_identical_to_archive": true,
+  "original_cell_count": 111,
+  "original_cells_identical": true,
+  "solutions_are_verbatim_copies": false,
+  "solution_scope": "Separate adaptations for CD4/CD8 and BCR; the full original is included unchanged.",
+  "optional_CDR3_clustering": "Preserved in the original; not recomputed for CD4/CD8.",
+  "required_analyses": [
+    "CDR3 properties",
+    "CDR3 length distributions",
+    "V/J usage",
+    "convergence",
+    "alpha diversity",
+    "rarefaction",
+    "F2 and MDS for CD4/CD8",
+    "BCR isotypes",
+    "depth sensitivity"
+  ],
+  "service_name_matches": 0,
+  "normalized_report_files": [
+    "results/bcr/DChu_T7_pbmc_d7COVID2_2.align.report.json",
+    "results/bcr/DChu_T7_pbmc_d7COVID2_2.align.report.txt",
+    "results/bcr/DChu_T7_pbmc_d7COVID2_2.assemble.report.json",
+    "results/bcr/DChu_T7_pbmc_d7COVID2_2.assemble.report.txt",
+    "results/bcr/DChu_T7_pbmc_d7COVID2_2.refine.report.json",
+    "results/bcr/DChu_T7_pbmc_d7COVID2_2.refine.report.txt",
+    "results/bcr/command.json",
+    "results/bcr/mixcr_execution.log"
+  ]
+}
